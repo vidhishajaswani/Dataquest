@@ -47,7 +47,7 @@ for cr in crime_rates:
     if cr>500:
         five_hundred_list.append(cr)
 
-## 8. Find the Highest Crime Rate ##
+## 8. Find the Highest Crime Rate ###
 
 print(crime_rates)
 highest=crime_rates[0]
