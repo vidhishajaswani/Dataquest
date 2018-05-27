@@ -16,3 +16,5 @@ My solutions to problems on Dataquest
 * Variable Scopes, Regular Expressions
 * Dates in Python
 * Guided Project: Exploring Gun Deaths in the US
+
+## Data Analysis and Visualisation
