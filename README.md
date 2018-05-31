@@ -18,3 +18,6 @@ My solutions to problems on Dataquest
 * Guided Project: Exploring Gun Deaths in the US
 
 ## Data Analysis and Visualisation
+* NumPy, Pandas
+* Working with Missing Data
+* Guided Project: Analyzing Thanksgiving Dinner
