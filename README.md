@@ -21,3 +21,9 @@ My solutions to problems on Dataquest
 * NumPy, Pandas
 * Working with Missing Data
 * Guided Project: Analyzing Thanksgiving Dinner
+* Line, Bar plots, Scatter plots, Histograms and Box plots
+* Guided Project: Visualizing Earnings Based On College Majors
+* Storytelling through data visualisation
+* Guided Project: Visualizing The Gender Gap In College Degrees
+* Conditional plots
+* Visualising geographic data
