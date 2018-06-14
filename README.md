@@ -27,3 +27,6 @@ My solutions to problems on Dataquest
 * Guided Project: Visualizing The Gender Gap In College Degrees
 * Conditional plots
 * Visualising geographic data
+* Data Cleanning: Combining, Analyzing and Visualising
+* Guided Project: Analysing NYC High School Data
+* Guided Project: Star Wars Survey
