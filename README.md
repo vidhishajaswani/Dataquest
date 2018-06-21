@@ -30,3 +30,21 @@ My solutions to problems on Dataquest
 * Data Cleanning: Combining, Analyzing and Visualising
 * Guided Project: Analysing NYC High School Data
 * Guided Project: Star Wars Survey
+
+##  Command Line
+* Command Line Basics
+* Command Line Python Scripting
+* Working with Jupyter Console
+* Piping and Redirecting output
+* Data Cleaning and Exploration Using Csvkit
+* Git and Version Control
+
+## Working with Data Sources
+* SQL, Summary Statistics, Querying SQLite from Python
+* Joins in SQL
+* Building Complex Queries
+* Table Relations and Normalization
+* Guided Project: Designing and Creating a Database
+* Using PostgreSQL
+* Indexing
+* APIs and Web Scraping
