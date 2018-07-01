@@ -48,3 +48,15 @@ My solutions to problems on Dataquest
 * Using PostgreSQL
 * Indexing
 * APIs and Web Scraping
+
+## Probability and Statistics
+* Sampling
+* Visualising and Comparing Frequency Distributions
+* Guided Project: Ivestigating Fandango Movie Ratings
+* Averages and Variability
+* Z-Scores
+* Guided Project: Finding best Markets to Advertise in
+* Probability
+* Significance Testing
+* Chi-squared tests
+* Guided Project: Winning Jeopardy
