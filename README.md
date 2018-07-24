@@ -60,3 +60,40 @@ My solutions to problems on Dataquest
 * Significance Testing
 * Chi-squared tests
 * Guided Project: Winning Jeopardy
+
+## Machine Learning
+* KNN, Model Performance
+* Hyperparameter Optimization
+* Cross Validation
+* Guided Project: Predicting Car Prices
+* Calculus for Machine Learning: Linear and Non-linear functions, Limits
+* Linear Algebra for ML
+* Linear Regression for ML, Feature Selection, Gradient Descent
+* Guided Project: Predicting House Prices
+* Logistic Regression
+* K-Means clustering
+* Introduction to neural networks
+* Guided Project: Predicting the stock Market
+* Decision Trees
+* Guided Project: Predicting bike rentals
+* Machine Learning Project
+
+## Advanced Python and Computer Science
+* Memory and Unicode
+* Algorithms
+* Binary Search
+* Data Structures
+* Recursion and Advanced Data Structures
+* Guided Project: Investigating Airplane Accidents
+* Python Programming: Lambda Functions, Parellel processing
+
+## Advanced Topics in Data Science
+* Kaggle Fundamentals
+* Naive Bayes for Sentiment Analysis
+* K-Nearest Neighbors
+* Introduction to Natural Language Processing
+
+## Spark and Map Reduce
+* Introduction to spark, spark dataframes and spark sql
+* Guided Project: Transforming Hamlet Data into a dataset
+
